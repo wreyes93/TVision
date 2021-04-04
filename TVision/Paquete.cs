@@ -14,5 +14,7 @@ namespace TVision
         private Boolean promocion;
         private float precioBase;
         private float precioFinal;
+
+        /*Prueba Git clonado*/
 }
 }
